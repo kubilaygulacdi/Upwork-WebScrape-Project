@@ -7,7 +7,6 @@ url = 'https://www.vetcompendium.be/fr/diergeneesmiddelen'
 req = requests.get(url,headers=headers)
 soup = BeautifulSoup(req.content,'html.parser')
 
-
 titles = soup.find_all('h2',class_='field-content uk-h3 uk-margin-remove')
 links_list=[]
 index = 1
@@ -35,16 +34,3 @@ for click_link in links_list:
             for k in info_list:
                 f.write(f"{index}."+ k.replace('\n\n','\n') +f"\n\n{'*'*100}\n\n")
                 index +=1
-        
-            
-
-
-            
-        
-    
-        
-
-            
-
-        
-
