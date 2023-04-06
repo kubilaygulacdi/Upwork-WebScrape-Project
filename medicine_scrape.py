@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 headers= {'User-Agent': 'user agent id'}
 
 url = 'https://www.vetcompendium.be/fr/diergeneesmiddelen'
@@ -34,3 +35,5 @@ for click_link in links_list:
             for k in info_list:
                 f.write(f"{index}."+ k.replace('\n\n','\n') +f"\n\n{'*'*100}\n\n")
                 index +=1
+
+                
