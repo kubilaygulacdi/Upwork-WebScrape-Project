@@ -1,0 +1,936 @@
+1.Firme/MAH
+CP-Pharma
+
+Numéro d'enregistrement
+BE-V571911
+
+Espèce cible
+chien
+
+
+Composition
+phénobarbital: 100 mg
+
+Forme pharmaceutique
+comprimé
+
+Voie d'administration
+po
+
+Posologie
+Ca:
+dose initiale: 2 x pj 2,5 mg/kg
+dose d'entretien: adapter la dose individuellement
+
+Conditionnement
+compr 100
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4e781e5c015ab3abcd87
+
+****************************************************************************************************
+
+2.Firme/MAH
+CP-Pharma
+
+Numéro d'enregistrement
+BE-V571902
+
+Espèce cible
+chien
+
+
+Composition
+phénobarbital: 60 mg
+
+Forme pharmaceutique
+comprimé
+
+Voie d'administration
+po
+
+Posologie
+Ca:
+dose initiale: 2 x pj 2,5 mg/kg
+dose d'entretien: adapter la dose individuellement
+
+Conditionnement
+compr 100
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4e781e5c015ab3abcd8d
+
+****************************************************************************************************
+
+3.Firme/MAH
+CP-Pharma
+
+Numéro d'enregistrement
+BE-V571893
+
+Espèce cible
+chien
+
+
+Composition
+phénobarbital: 25 mg
+
+Forme pharmaceutique
+comprimé
+
+Voie d'administration
+po
+
+Posologie
+Ca:
+dose initiale: 2 x pj 2,5 mg/kg
+dose d'entretien: adapter la dose individuellement
+
+Conditionnement
+compr 100
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4e781e5c015ab3abcd69
+
+****************************************************************************************************
+
+4.Firme/MAH
+Virbac
+
+Numéro d'enregistrement
+BE-V599182
+
+Espèce cible
+bovin prod de lait
+
+
+Composition
+céfalexine: 375 mg
+
+Forme pharmaceutique
+suspension
+
+Voie d'administration
+intramammaire
+
+Posologie
+Bo: 1 applic/quartier
+
+Temps d'attente
+Viande et abats: 4 j
+Lait: 12 h après le vêlage (période de tarissement min 42 j) ou 42,5 j après traitement (période de tarissement < 42 j)
+
+Conditionnement
+seringue 12 x 8 g, 60 x 8 g
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4a4f1e5c015ab3a7fcca
+
+****************************************************************************************************
+
+5.Firme/MAH
+Emdoka
+
+Numéro d'enregistrement
+BE-V365924
+
+Espèce cible
+chien
+
+
+Composition
+povidone-iodine: 75 mg/ml
+
+Forme pharmaceutique
+solution
+
+Voie d'administration
+à usage cutané
+
+Posologie
+Ca, champ opératoire: environ 5 ml de sol non diluée/dm² de peau (bien frotter pendant 2 x 3 min)
+
+Conditionnement
+flacon 500 ml
+fût 5 l, 10 l
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc636f1e5c015ab3d64365
+
+****************************************************************************************************
+
+6.Firme/MAH
+Emdoka
+
+Numéro d'enregistrement
+BE-V381516
+
+Espèce cible
+chien
+
+
+Composition
+povidone iodée: 100 mg/ml
+
+Forme pharmaceutique
+solution
+
+Voie d'administration
+à usage cutané
+
+Posologie
+Ca, champ opératoire: environ 5 ml de sol non diluée/dm² de peau (bien frotter pendant 2 x 3 min)
+
+Conditionnement
+flacon 500 ml, 5 l
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc63701e5c015ab3d64636
+
+****************************************************************************************************
+
+7.Firme/MAH
+Alfasan
+
+Numéro d'enregistrement
+BE-V594373
+
+Espèce cible
+cheval non prod d'aliments
+cheval prod d'aliments
+bovin prod de lait
+porc
+chèvre prod de lait
+chien
+chat
+
+
+Composition
+dexaméthasone: 2 mg/ml
+
+Forme pharmaceutique
+solution injectable
+
+Voie d'administration
+iv, im, sc, iartic, périartic
+
+Posologie
+Eq:
+-inflammation, allergie: 0,06 mg/kg
+-arthrite, bursite, ténosynovite: 1-5 ml/traitement iartic/périartic
+Bo:
+-inflammation, allergie: 0,06 mg/kg
+-cétose: 1 x 0,02-0,04 mg/kg im
+-induction part: 1 x 0,04 mg/kg im après 260 j de gestation
+Su:
+-inflammation, allergie: 0,06 mg/kg
+Capr:
+-inflammation, allergie: 0,06 mg/kg
+-cétose: 1 x 0,02-0,04 mg/kg im
+Ca, Fe:
+-inflammation, allergie: 0,1 mg/kg
+
+Temps d'attente
+Viande et abats: Eq, Bo, Capr: 8 j, Su: 2 j (inj im), 6 j (inj iv)
+Lait: Bo: 72 h
+Ne pas utiliser chez les chevaux producteurs de lait destiné à la consommation humaine.
+
+Conditionnement
+flacon 50 ml, 100 ml
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4ae01e5c015ab3a87a67
+
+****************************************************************************************************
+
+8.Firme/MAH
+Alfasan
+
+Numéro d'enregistrement
+BE-V600737
+
+Espèce cible
+cheval non prod d'aliments
+cheval prod de lait
+bovin prod de lait
+ovin prod de lait
+chèvre prod de lait
+chien
+chat
+lapin non prod d'aliments
+cochon d'Inde
+rongeur
+
+
+Composition
+kétamine: 100 mg/ml
+
+Forme pharmaceutique
+solution injectable
+
+Voie d'administration
+iv, im, ip
+
+Posologie
+Eq:
+avec détomidine: 20 mcg de dét/kg iv, suivi après 5 min de 2,2 mg de két/kg iv rapide
+avec xylazine: 1,1 mg de xyl/kg iv et 2,2 mg de két/kg iv
+Bo:
+avec xylazine: 0,1 mg/kg iv, suivi de 2 mg de két/kg iv (doubler les doses par voie im)
+Ov, Capr: 0,5-7 mg de két/kg iv selon sédatif utilisé
+Ca:
+avec médétomidine: 10-30 mcg de médét/kg im et 5-10 mg de két/kg im
+avec xylazine: 1,1 mg de xyl/kg im et 5-10 mg de két/kg im
+voie iv: 30-50% de la dose im
+Fe:
+avec médétomidine: 10-80 mcg de médét/kg im et 2,5-7,5 mg de két/kg im
+avec xylazine: 0,5-1,1 mg/kg im et 11-22 mg de kéta/kg im
+lapin: 5-10 mg/kg xyl im et 35-50 mg/kg két im
+rat: 5-10 mg/kg xyl im/ip et 40-80 mg/kg két im/ip
+souris: 7,5-16 mg/kg xyl ip et 90-100 mg/kg két ip
+cobaye: 0,1-5 mg/kg xyl im et 30-80 mg/kg két im
+hamster: 5-10 mg/kg xyl ip et 50-200 mg/kg két ip
+
+Temps d'attente
+Viande et abats: Eq, Bo, Ov, Capr: 1 j
+Lait: Eq, Bo, Ov, Capr: 0 h
+
+Conditionnement
+flacon 10 ml, 50 ml
+
+Prescription
+R/psych
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bef4c90c78f5767e3ea57f
+
+****************************************************************************************************
+
+9.Firme/MAH
+Dechra
+
+Numéro d'enregistrement
+BE-V546017
+
+Espèce cible
+chien
+
+
+Composition
+pimobendane: 3,5 mg/ml
+
+Forme pharmaceutique
+solution
+
+Voie d'administration
+po
+
+Posologie
+Ca: 2 x 0,1-0,3 mg/kg pj 1 h avant le repas
+
+Conditionnement
+flacon 42 ml, 168 ml + seringue
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc505b1e5c015ab3ad7220
+
+****************************************************************************************************
+
+10.Firme/MAH
+Livisto
+
+Numéro d'enregistrement
+BE-V564817
+
+Espèce cible
+chien
+chat
+cochon d'Inde
+
+
+Composition
+miconazole (nitrate): 23 mg/ml
+prednisolone (acétate): 5 mg/ml
+polymyxine B (sulfate): 5500 UI/ml
+
+Forme pharmaceutique
+suspension
+
+Voie d'administration
+à usage cutané, pour instill auriculaire
+
+Posologie
+Ca, Fe:
+-otite externe: 2 x 3-5 gtts pj (7-14 j)
+-inf cut: 2 applic pj (max 14 j)
+cochon d'Inde:
+-inf cut: 2 applic pj (max 14 j)
+
+Conditionnement
+flacon 15 ml, 30 ml
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4c9f1e5c015ab3aa129e
+
+****************************************************************************************************
+
+11.Firme/MAH
+Huvepharma
+
+Numéro d'enregistrement
+BE-V660579
+
+Espèce cible
+porc
+poule
+
+
+Composition
+amoxicilline (trihydrate): 800 mg/g
+
+Forme pharmaceutique
+poudre
+
+Voie d'administration
+po dans l'eau de boisson
+
+Posologie
+Su: 12,9 mg/kg pj (3-5 j)
+poulet: 23 mg/kg pj (3-5 j)
+
+Temps d'attente
+Viande et abats: Su: 2 j, poulet: 1 j
+Ne pas utiliser chez les oiseaux pondeurs d'œufs destinés à la consommation humaine.
+
+Conditionnement
+sac 1 kg
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/6315c4e3a6713358e604fa75
+
+****************************************************************************************************
+
+12.Firme/MAH
+Huvepharma
+
+Numéro d'enregistrement
+BE-V570213
+
+Espèce cible
+bovin
+
+
+Composition
+halofuginone (lactate): 0,50 mg/ml
+
+Forme pharmaceutique
+solution
+
+Voie d'administration
+po
+
+Posologie
+Bo (nouveau-nés): 1 x 100 µg/kg pj après le repas (7 j)
+
+Temps d'attente
+Viande et abats : 13 j
+
+Conditionnement
+flacon 500 ml, 1 l
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4ed91e5c015ab3ac17f8
+
+****************************************************************************************************
+
+13.Firme/MAH
+Beaphar
+
+Numéro d'enregistrement
+BE-V544942
+
+Espèce cible
+chien
+
+
+Composition
+deltaméthrine: 0,77 g
+
+Forme pharmaceutique
+collier
+
+Voie d'administration
+à usage cutané
+
+Posologie
+Ca (âge > 7 sem): 1 collier/animal
+puces: 16 sem, tiques: 6 m, phléb: 5,5 m
+
+Conditionnement
+collier 1 (48 cm)
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc50871e5c015ab3adbb2c
+
+****************************************************************************************************
+
+14.Firme/MAH
+Chanelle
+
+Numéro d'enregistrement
+BE-V551706
+
+Espèce cible
+ovin prod de lait
+
+
+Composition
+moxidectine: 1 mg/ml
+
+Forme pharmaceutique
+solution
+
+Voie d'administration
+po
+
+Posologie
+Ov: 200 µg/kg
+
+Temps d'attente
+Viande+abats: 14 j
+Lait: 5 j
+
+Conditionnement
+container 1 l, 2,5 l, 3 l, 5 l
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4fbf1e5c015ab3ace535
+
+****************************************************************************************************
+
+15.Firme/MAH
+Boehringer Ingelheim
+
+Numéro d'enregistrement
+BE-V587857
+
+Espèce cible
+porc
+
+
+Composition
+par dose (2 ml):Erysipelothrix rhusiopathiae inactivé, sérotype 2, souche SE-9: 7,4 – 61,0 unités ELISA
+Adjuv: montanide ISA 201 VG
+
+Forme pharmaceutique
+vaccin injectable
+
+Voie d'administration
+im
+
+Posologie
+Su (âge > 12 sem):
+-Primovac: 2 x 1 dose à 4 sem d'intervalle (1ère dose avant accouplement/insémination)
+-Rappel: 1 dose/5 m
+
+OOI-DOI
+OOI: 3 sem après primovac
+DOI: 5 m
+
+Temps d'attente
+Temps d'attente: 0 j
+
+Conditionnement
+flacon 100 ml
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4b7b1e5c015ab3a90763
+
+****************************************************************************************************
+
+16.Firme/MAH
+Vetpharma AH
+
+Numéro d'enregistrement
+BE-V365486
+
+Espèce cible
+poule
+dinde
+
+
+Composition
+enrofloxacine: 100 mg/ml
+
+Forme pharmaceutique
+solution
+
+Voie d'administration
+po dans l'eau de boisson
+
+Posologie
+poule, dinde: 10 mg/kg pj (3-5 j)
+
+Temps d'attente
+Viande et abats: poule: 7 j, dinde: 13 jNon autorisé pour une utilisation chez les oiseaux producteurs d’oeufs destinés à la consommation humaine.Ne pas administrer aux oiseaux pondeurs de remplacement pendant les 14 jours qui précèdent l’entrée en ponte.
+
+Conditionnement
+flacon 1 l
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc68741e5c015ab3e1088f
+
+****************************************************************************************************
+
+17.Firme/MAH
+Intervet Int
+
+Numéro d'enregistrement
+BE-V573004
+
+Espèce cible
+chien
+
+
+Composition
+par dose (1 ml):Bordetella bronchiseptica fimbriae (purifié à partir de la souche Bb7 92932): 88 - 399 U
+Adjuv: acétate de dl-alpha-tocophéryle
+
+Forme pharmaceutique
+vaccin injectable
+
+Voie d'administration
+sc
+
+Posologie
+Ca (âge > 6 sem):
+-Primovac: 2 doses à 4 sem d'intervalle
+-Rappel: 1 dose 7 m après primovac, puis 1 dose/an
+
+OOI-DOI
+OOI: 2 sem
+DOI: 7 m après primovac, 1 an après rappel
+
+Conditionnement
+seringue préremplie 5 x 1 dose
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4e521e5c015ab3abac7b
+
+****************************************************************************************************
+
+18.Firme/MAH
+Vetcare Oy
+
+Numéro d'enregistrement
+EU/2/21/279/001
+
+Espèce cible
+chien
+
+
+Composition
+médétomidine (chlorhydrate): 0,5 mg/ml
+vatinoxan (chlorhydrate): 10 mg/ml
+
+Forme pharmaceutique
+solution injectable
+
+Voie d'administration
+im
+
+Posologie
+Ca: 1 mg méd + 20 mg vat par m2 de surface corporelle
+
+Conditionnement
+flacon 10 ml
+
+Prescription
+R/
+
+Lien vers RCP
+https://www.ema.europa.eu/en/documents/product-information/zenalpha-epar-produc…
+
+****************************************************************************************************
+
+19.Firme/MAH
+Boehringer Ingelheim
+
+Numéro d'enregistrement
+EU/2/19/240/014
+
+Espèce cible
+chien
+
+
+Composition
+afoxolaner: 136 mg
+
+Forme pharmaceutique
+comprimé à croquer
+
+Voie d'administration
+po
+
+Posologie
+Ca (PV > 25-50 kg): 2,7-7 mg/kg
+Ca (PV > 50 kg): utiliser une association appropriée de comprimés
+puces: 5 sem, tiques: 1 m
+
+Conditionnement
+compr 3
+
+Lien vers RCP
+https://medicines.health.europa.eu/veterinary/nl/documents/download/45e7676d-93…
+
+****************************************************************************************************
+
+20.Firme/MAH
+Boehringer Ingelheim
+
+Numéro d'enregistrement
+EU/2/19/240/010
+
+Espèce cible
+chien
+
+
+Composition
+afoxolaner: 68 mg
+
+Forme pharmaceutique
+comprimé à croquer
+
+Voie d'administration
+po
+
+Posologie
+Ca (PV > 10-25 kg): 2,7-7 mg/kg
+puces: 5 sem, tiques: 1 m
+
+Conditionnement
+compr 3
+
+Lien vers RCP
+https://medicines.health.europa.eu/veterinary/nl/documents/download/45e7676d-93…
+
+****************************************************************************************************
+
+21.Firme/MAH
+Boehringer Ingelheim
+
+Numéro d'enregistrement
+EU/2/19/240/006
+
+Espèce cible
+chien
+
+
+Composition
+afoxolaner: 28,3 mg
+
+Forme pharmaceutique
+comprimé à croquer
+
+Voie d'administration
+po
+
+Posologie
+Ca (PV > 4-10 kg): 2,7-7 mg/kg
+puces: 5 sem, tiques: 1 m
+
+Conditionnement
+compr 3
+
+Lien vers RCP
+https://medicines.health.europa.eu/veterinary/nl/documents/download/45e7676d-93…
+
+****************************************************************************************************
+
+22.Firme/MAH
+Boehringer Ingelheim
+
+Numéro d'enregistrement
+EU/2/19/240/002
+
+Espèce cible
+chien
+
+
+Composition
+afoxolaner: 11,3 mg
+
+Forme pharmaceutique
+comprimé à croquer
+
+Voie d'administration
+po
+
+Posologie
+Ca (PV: 2-4 kg): 2,7-7 mg/kg
+puces: 5 sem, tiques: 1 m
+
+Conditionnement
+compr 3
+
+Lien vers RCP
+https://medicines.health.europa.eu/veterinary/nl/documents/download/45e7676d-93…
+
+****************************************************************************************************
+
+23.Firme/MAH
+Alivira Animal Health
+
+Numéro d'enregistrement
+BE-V575217
+
+Espèce cible
+bovin
+porc
+ovin
+
+
+Composition
+tulathromycine: 100 mg/ml
+
+Forme pharmaceutique
+solution injectable
+
+Voie d'administration
+im (Su, Ov), sc (Bo)
+
+Posologie
+Bo: 1 x 2,5 mg/kg sc (max 7,5 ml/site d'admin)
+Su: 1 x 2,5 mg/kg im (max 2 ml/site d'admin)
+Ov: 1 x 2,5 mg/kg im
+
+Temps d'attente
+Viande+abats: Bo: 22 j; Su: 13 j; Ov: 16 j
+Ne pas utiliser chez les animaux producteurs de lait destiné à la consommation humaine. Ne pas utiliser chez les animaux gravides producteurs de lait destiné à la consommation humaine au cours des 2 mois précédant la mise bas.
+
+Conditionnement
+flacon 100 ml
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4e211e5c015ab3ab878a
+
+****************************************************************************************************
+
+24.Firme/MAH
+Alfasan
+
+Numéro d'enregistrement
+BE-V590515
+
+Espèce cible
+cheval non prod d'aliments
+
+
+Composition
+pergolide: 1 mg
+
+Forme pharmaceutique
+comprimé
+
+Voie d'administration
+po
+
+Posologie
+Eq (âge > 2 ans): dose initiale: 1 x 2 µg/kg pj
+adapter ensuite la dose en fonction de la réponse clinique
+
+Temps d'attente
+Ne pas utiliser chez les chevaux destinés à la consommation humaine.
+Ne pas utiliser chez les juments productrices de lait destiné à la consommation humaine.
+
+Conditionnement
+compr 60, 160
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4b461e5c015ab3a8d6be
+
+****************************************************************************************************
+
+25.Firme/MAH
+Alfasan
+
+Numéro d'enregistrement
+BE-V590417
+
+Espèce cible
+cheval non prod d'aliments
+
+
+Composition
+pergolide: 0,5 mg
+
+Forme pharmaceutique
+comprimé
+
+Voie d'administration
+po
+
+Posologie
+Eq (âge > 2 ans): dose initiale: 1 x 2 µg/kg pj
+adapter ensuite la dose en fonction de la réponse clinique
+
+Temps d'attente
+Ne pas utiliser chez les chevaux destinés à la consommation humaine.
+Ne pas utiliser chez les juments productrices de lait destiné à la consommation humaine.
+
+Conditionnement
+compr 60, 160
+
+Prescription
+R/
+
+Lien vers RCP
+https://app.fagg-afmps.be/pharma-status/api/files/62bc4b461e5c015ab3a8d6d2
+
+****************************************************************************************************
+
