@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 headers= {'User-Agent': 'user agent id'}
 
-url = 'https://www.vetcompendium.be/fr/diergeneesmiddelen'
+url = 'LINK'
 req = requests.get(url,headers=headers)
 soup = BeautifulSoup(req.content,'html.parser')
 
@@ -13,7 +13,7 @@ links_list=[]
 index = 1
 
 for title in titles:
-    click_links = 'https://www.vetcompendium.be'+title.find('a')['href'] #Finding links of titles for getting more details.
+    click_links = 'LINK'+title.find('a')['href'] #Finding links of titles for getting more details.
     links_list.append(click_links)
 
 for click_link in links_list:
